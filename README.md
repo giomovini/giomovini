@@ -22,8 +22,8 @@ Sou um desenvolvedor iniciante, que busca aprender cada dia mais sobre a área d
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 ##  Contact Me
-- <a href="https://www.linkedin.com/in/vinicius-cremon-giomo-87788b204//">Linkedin</a>
-- <a href="mailto:vinicius.cgiomo@gmail.com">E-mail</a>
-- <a href="https://www.instagram.com/giomo_vini/">Instagram</a>
+- <a href="https://www.linkedin.com/in/vinicius-cremon-giomo-87788b204//" target="_blank">Linkedin</a>
+- <a href="mailto:vinicius.cgiomo@gmail.com" target="_blank">E-mail</a>
+- <a href="https://www.instagram.com/giomo_vini/" target="_blank">Instagram</a>
 
 Thanks for the contact!
