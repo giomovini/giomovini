@@ -26,4 +26,8 @@ Sou um desenvolvedor iniciante, que busca aprender cada dia mais sobre a área d
 - <a href="mailto:vinicius.cgiomo@gmail.com" target="_blank">E-mail</a>
 - <a href="https://www.instagram.com/giomo_vini/" target="_blank">Instagram</a>
 
+[![Twitter Badge](https://img.shields.io/badge/-@giomo_vini-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/giomo_vini)](https://twitter.com/giomo_vini) 
+[![Linkedin Badge](https://img.shields.io/badge/-Vinicius%20Giomo-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-cremon-giomo-87788b204//)](https://www.linkedin.com/in/vinicius-cremon-giomo-87788b204//) 
+[![Gmail Badge](https://img.shields.io/badge/-vinicius.cgiomo@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinicius.cgiomo@gmail.com)](mailto:vinicius.cgiomo@gmail.com)
+
 Thanks for the contact!
