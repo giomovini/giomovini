@@ -6,9 +6,10 @@ Tenho 17 anos e atualmente, sou estudante de Sistemas de Informação pela FIAP 
 Sou um desenvolvedor iniciante, que busca aprender cada dia mais sobre a área de desenvolvimento, tanto front-end como back-end.
 
 ## Technologies
-- Front - End com HTML, CSS, JS (iniciante)
 - Python 
+- Front - End com HTML, CSS, JS (iniciante)
 - Ruby
+- Java
 - Github
 
 **Languages and Tools:**  
