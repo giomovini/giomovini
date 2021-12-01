@@ -8,6 +8,7 @@ Sou um apaixonado em tecnologia e em como ela tem o poder de realizar sonhos e m
 Busco aprender cada dia mais sobre a área de desenvolvimento, tanto front-end como back-end.
 
 ## Technologies
+- Ruby
 - Java
 - HTML, CSS
 - JavaScript
