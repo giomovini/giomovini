@@ -1,7 +1,7 @@
 # <a href="https://www.linkedin.com/in/vinicius-cremon-giomo-87788b204//">Vinicius Giomo</a>
 
 ## About Me
-Tenho 18 anos e atualmente, sou estudante de Sistemas de Informação pela FIAP - Faculdade de Informática e Administração Paulista (SP). 
+Tenho 19 anos e atualmente, sou estudante de Sistemas de Informação pela FIAP - Faculdade de Informática e Administração Paulista (SP). 
 <br>
 Sou um apaixonado em tecnologia e em como ela tem o poder de realizar sonhos e mudar vidas!!
 <br>
