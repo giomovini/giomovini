@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/viniciuscremongiomo//">Vinicius Giomo</a>
+# <a href="https://www.linkedin.com/in/viniciuscremongiomo/?originalSubdomain=br">Vinicius Giomo</a>
 
 ## About Me
 Tenho 19 anos e atualmente, sou estudante de Sistemas de Informação pela FIAP - Faculdade de Informática e Administração Paulista (SP). 
@@ -23,7 +23,7 @@ Busco aprender cada dia mais sobre a área de desenvolvimento, tanto front-end c
 
 ##  Contact Me
 [![Twitter Badge](https://img.shields.io/badge/-@giomo_vini-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/giomo_vini)](https://twitter.com/giomo_vini) 
-[![Linkedin Badge](https://img.shields.io/badge/-Vinicius%20Giomo-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciuscremongiomo//)](https://www.linkedin.com/in/vinicius-cremon-giomo-87788b204//) 
+[![Linkedin Badge](https://img.shields.io/badge/-Vinicius%20Giomo-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://[www.linkedin.com/in/viniciuscremongiomo//](https://www.linkedin.com/in/viniciuscremongiomo/?originalSubdomain=br))](https://www.linkedin.com/in/vinicius-cremon-giomo-87788b204//) 
 [![Gmail Badge](https://img.shields.io/badge/-vinicius.cgiomo@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinicius.cgiomo@gmail.com)](mailto:vinicius.cgiomo@gmail.com)
 
 Thanks for the contact!
