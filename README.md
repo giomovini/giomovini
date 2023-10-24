@@ -9,6 +9,7 @@ Busco aprender cada dia mais sobre a área de desenvolvimento, tanto front-end c
 
 ## Technologies
 - Java
+- Python
 - HTML, CSS
 - JavaScript
 - Git/Github
