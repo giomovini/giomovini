@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/viniciuscremongiomo/?originalSubdomain=br">Vinicius Giomo</a>
+# <a href="https://www.linkedin.com/in/viniciuscremongiomo/?originalSubdomain=br">Vinicius Cremon Giomo</a>
 
 ## About Me
 Tenho 20 anos e atualmente, sou estudante de Sistemas de Informação pela FIAP - Faculdade de Informática e Administração Paulista (SP). 
