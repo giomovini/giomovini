@@ -24,3 +24,6 @@ Busco aprender cada dia mais sobre a área de desenvolvimento, tanto front-end c
 [![Gmail Badge](https://img.shields.io/badge/-vinicius.cgiomo@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinicius.cgiomo@gmail.com)](mailto:vinicius.cgiomo@gmail.com)
 
 Thanks for the contact!
+<br>
+
+![snake animation](https://github.com/giomovini/giomovini/blob/output/github-contribution-grid-snake2.svg)
