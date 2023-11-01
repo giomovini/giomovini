@@ -25,5 +25,3 @@ Busco aprender cada dia mais sobre a área de desenvolvimento, tanto front-end c
 
 Thanks for the contact!
 <br>
-
-![snake animation](https://github.com/giomovini/giomovini/blob/output/github-contribution-grid-snake2.svg)
