@@ -1,14 +1,14 @@
 # <a href="https://www.linkedin.com/in/viniciuscremongiomo/?originalSubdomain=br">Vinicius Cremon Giomo</a>
 
 ## About Me
-Tenho 20 anos e atualmente, sou estudante de Sistemas de Informação pela FIAP - Faculdade de Informática e Administração Paulista (SP). 
+Tenho 20 anos e atualmente, sou estudante de Data Sciece pela FIAP - Faculdade de Informática e Administração Paulista (SP). 
 <br>
 Sou um apaixonado em tecnologia e em como ela tem o poder de realizar sonhos e mudar vidas!!
 <br>
-Busco aprender cada dia mais sobre a área de desenvolvimento, tanto front-end como back-end.
+Busco aprender cada dia mais sobre a área de análise de dados.
 
 ## Technologies
-🌱  Improving at Python | Git/Github
+🌱  Improving at Python | Git/Github | SQL
 
 **Languages and Tools:**  
 
