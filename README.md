@@ -8,7 +8,7 @@ Sou um apaixonado em tecnologia e em como ela tem o poder de realizar sonhos e m
 Busco aprender cada dia mais sobre a área de desenvolvimento, tanto front-end como back-end.
 
 ## Technologies
-🌱  Improving at Python | HTML & CSS | JavaScript | Git/Github
+🌱  Improving at Python | Git/Github
 
 **Languages and Tools:**  
 
