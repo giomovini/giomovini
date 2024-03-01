@@ -7,6 +7,12 @@ Sou um apaixonado em tecnologia e em como ela tem o poder de realizar sonhos e m
 <br>
 Busco aprender cada dia mais sobre a área de análise de dados.
 
+I am 20 years old and currently a Data Science student at FIAP - Faculdade de Informática e Administração Paulista (SP).
+<br>
+I am passionate about technology and its power to make dreams come true and change lives!
+<br>
+I am always looking to learn more about the field of data analysis.
+<br>
 ## Technologies
 🌱  Improving at Python | Git/Github | SQL
 
